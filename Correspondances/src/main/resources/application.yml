@@ -2,7 +2,7 @@ spring:
   application:
     name: correspondances
   datasource:
-    url: jdbc:postgresql://localhost:5432/correspondances
+    url: jdbc:postgresql://localhost:5433/correspondances
     username: correspondances
     password: correspondances
   jpa:
